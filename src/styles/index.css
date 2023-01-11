@@ -1,0 +1,15 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+
+.title {
+  text-align: center;
+  margin: 0;
+}
+
+.ml-15 {
+  margin-left: 15px;
+}
